@@ -1,0 +1,16 @@
+const contentData =
+    // content.json
+{
+    "sections": [
+      {
+        "title": "InsightRiseLabs™",
+        "content": "InsightRiseLabs™ is a global technology company specializing in disruptive technologies - Artificial Intelligence (AI), Machine Learning, Robotic Process Automation (RPA), Block Chain and Internet of Things (IoT). Founders of InsightRiseLabs™ has deep expertise in cutting-edge technology gained over a decade of experience in delivering smart city solutions for European Commission (EC) projects."
+      },
+      {
+        "title": "InsightRiseLabs's Mission",
+        "content": "InsightRiseLabs's mission is to enable businesses to leverage disruptive technologies to stay competitive and exploit the business's full potential in the market."
+      }
+    ]
+  }
+  
+exp
