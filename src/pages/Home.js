@@ -45,7 +45,7 @@ const Home = () => {
           Your browser does not support the video tag.
         </video>
         <div className="headerContainer">
-          <h1 data-aos="zoom-in-up">InsightRiseLabs Technologies</h1>
+          <h1 data-aos="zoom-in-up">InsightRiseLab Technologies</h1>
           <p id="typed-text" data-aos="fade-up"></p>
         </div>
       </div>

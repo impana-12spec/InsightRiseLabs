@@ -17,7 +17,7 @@ const Footer = () => {
               ABOUT US
             </Typography>
             <Typography fontSize="13px" mt={2} color="#747474">
-              InsightRiseLabs is a global technology company specializing in disruptive
+              InsightRiseLab is a global technology company specializing in disruptive
               technologies – Artificial Intelligence (AI), Machine Learning,
               Robotic Process Automation (RPA), BlockChain and Internet of
               Things (IoT). InsightRiseLabs mission to enable businesses to leverage the
@@ -89,7 +89,7 @@ const Footer = () => {
               </a>
             </Typography>
             <Typography mt={2}>
-              <img src={InsightRiselabs}  height="150" width="300"alt="image"/>
+              <img src={InsightRiselabs}  height="150" width="330"alt="image"/>
             </Typography>
           </Stack>
         </Grid>
